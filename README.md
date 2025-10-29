@@ -1,4 +1,4 @@
-# Lab---6---Web
+# Lab - 6 - Web
 
 Nama : Ghefira Azka Fardani 
 
@@ -212,15 +212,23 @@ Tambahkan class berikut di elemen-elemen gambar dan section:
 dan tambahkan spacing di setiap section:
 ```html
 
-#### ```- penjelasan``` : 
+#### ```- penjelasan``` :
 
-#### ```- hasil```
-![foto]
-### 6. 
+Bootstrap udah punya sistem responsif otomatis, asal kita:
 
-```html
-```
-#### ```- penjelasan``` : 
+- Gunakan kombinasi class grid yang sesuai kayak ```.row```, ```.col-md-6```, ```.col-md-4```, ```.col-lg-8```, dsb.
+
+- Tambahkan margin/padding utilitas (```.mt-4```, ```.mb-3```, ```.p-4```, dst).
+
+- Pastikan gambar dan teks nggak keluar dari kolom dengan .img-fluid biar ukuran gambar ikut layar.
+
+Kita juga bisa kasih beberapa penyesuaian kecil:
+
+- Tambahin class="img-fluid" di semua <img> biar otomatis mengecil.
+
+- Tambahin jarak antar section pakai .mt-5 atau .my-5.
+
+- Pastikan semua konten pakai sistem container Bootstrap.
 
 #### ```- hasil```
 ![foto]
