@@ -210,7 +210,6 @@ Tambahkan class berikut di elemen-elemen gambar dan section:
 <img src="..." class="img-fluid rounded" alt="...">
 ```
 dan tambahkan spacing di setiap section:
-```html
 
 #### ```- penjelasan``` :
 
@@ -231,4 +230,4 @@ Kita juga bisa kasih beberapa penyesuaian kecil:
 - Pastikan semua konten pakai sistem container Bootstrap.
 
 #### ```- hasil```
-![foto]
+![foto]()
